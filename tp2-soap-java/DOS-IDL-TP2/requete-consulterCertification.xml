@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:cer="http://campus.idl.tn/certifications">
+  <soapenv:Header/>
+  <soapenv:Body>
+    <cer:consulterCertification>
+      <code>PCEP</code>
+    </cer:consulterCertification>
+  </soapenv:Body>
+</soapenv:Envelope>
