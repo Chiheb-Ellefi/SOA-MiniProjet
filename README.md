@@ -2,7 +2,7 @@
 
 **Équipe 6** — Certifications de formations, Clubs, Restauration, Séminaires et Voyages
 Module Développement Orienté Service (DOS) — 3 IDL 1 & 2 — ISI — AU 2026/2027
-Format : Formateur Ingénieur (TPs + corrigés). Équipe : Chiheb Ellefi, Ibtihel Khemili, [membre 3], [membre 4]
+Format : Formateur Ingénieur (TPs + corrigés). Équipe : Chiheb Ellefi, Ibtihel Khemili
 
 Fil rouge : un mini-projet unique, **DOS-IDL-Campus**, qui regroupe les services de vie étudiante et de
 formation complémentaire de l'ISI. Toutes les données sont **fictives**.
